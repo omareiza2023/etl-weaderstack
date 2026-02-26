@@ -9,4 +9,4 @@ sqlalchemy==2.0.23
 alembic==1.13.1
 plotly==5.19.0
 numpy>=1.26.4
-# cambio para forzar rebuild
+# cambio para forzar rebuild# forzar update
