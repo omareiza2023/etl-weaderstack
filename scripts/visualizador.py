@@ -49,5 +49,5 @@ ax4.grid(axis='y', alpha=0.3)
 
 plt.tight_layout()
 plt.savefig('data/clima_analysis.png', dpi=400, bbox_inches='tight')
-logger.info("✅ Gráficas guardadas en data/clima_analysis.png")
+print("✅ Gráficas guardadas en data/clima_analysis.png")
 plt.show()
